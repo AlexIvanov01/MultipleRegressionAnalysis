@@ -1,0 +1,16 @@
+ƒ
+VVPS_project.src.MatrixobjectB
+Matrix(double[*,*])+VVPS_project.src.Matrix.Matrix(double[*,*])2
+Transpose()#VVPS_project.src.Matrix.Transpose()^
+!Multiply(VVPS_project.src.Matrix)9VVPS_project.src.Matrix.Multiply(VVPS_project.src.Matrix)P
+AddFirstColumnWithValue1()2VVPS_project.src.Matrix.AddFirstColumnWithValue1():
+RemoveLastRow()'VVPS_project.src.Matrix.RemoveLastRow()L
+UseGaussianElemination()0VVPS_project.src.Matrix.UseGaussianElemination()6
+PrintMatrix()%VVPS_project.src.Matrix.PrintMatrix()@
+CheckForZeroRows()*VVPS_project.src.Matrix.CheckForZeroRows()6
+DataArray.get%VVPS_project.src.Matrix.DataArray.get6
+DataArray.set%VVPS_project.src.Matrix.DataArray.set2
+Columns.get#VVPS_project.src.Matrix.Columns.get2
+Columns.set#VVPS_project.src.Matrix.Columns.set,
+Rows.get VVPS_project.src.Matrix.Rows.get,
+Rows.set VVPS_project.src.Matrix.Rows.set

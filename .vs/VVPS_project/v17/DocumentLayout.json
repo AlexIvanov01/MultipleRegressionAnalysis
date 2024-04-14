@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\C#\\VVPS_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|c:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\c#\\vvps_project\\src\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|solutionrelative:src\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|c:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\c#\\vvps_project\\src\\regressionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|solutionrelative:src\\regressionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|c:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\c#\\vvps_project\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|c:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\c#\\vvps_project\\src\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|solutionrelative:src\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5B2686E-05F3-4DB5-911E-E93F7F587FCC}|VVPS_project.csproj|c:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\c#\\vvps_project\\src\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,25 +66,24 @@
               "RelativeToolTip": "src\\DataReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T10:40:06.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T10:40:06.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Matrix.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\C#\\VVPS_project\\src\\Matrix.cs",
               "RelativeDocumentMoniker": "src\\Matrix.cs",
               "ToolTip": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\C#\\VVPS_project\\src\\Matrix.cs",
               "RelativeToolTip": "src\\Matrix.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA2wCAAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T10:38:51.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\C#\\VVPS_project\\src\\Program.cs",
               "RelativeDocumentMoniker": "src\\Program.cs",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "src\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:41:55.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T16:41:55.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegressionModel.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\C#\\VVPS_project\\src\\RegressionModel.cs",
               "RelativeDocumentMoniker": "src\\RegressionModel.cs",

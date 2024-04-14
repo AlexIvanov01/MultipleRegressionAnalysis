@@ -12,3 +12,4 @@ C:\Програмиране\C#\VVPS_project\obj\Debug\net8.0\refint\VVPS_project
 C:\Програмиране\C#\VVPS_project\obj\Debug\net8.0\VVPS_project.pdb
 C:\Програмиране\C#\VVPS_project\obj\Debug\net8.0\VVPS_project.genruntimeconfig.cache
 C:\Програмиране\C#\VVPS_project\obj\Debug\net8.0\ref\VVPS_project.dll
+C:\Програмиране\C#\VVPS_project\obj\Debug\net8.0\VVPS_project.sourcelink.json

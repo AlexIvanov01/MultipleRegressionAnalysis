@@ -4,8 +4,8 @@ namespace VVPS_project.src
     public class Matrix
     {
         private double[,] _dataArray;
-        private int _columns;
-        private int _rows;
+        private int _columns = 0;
+        private int _rows = 0;
 
         public double[,] DataArray
         {
