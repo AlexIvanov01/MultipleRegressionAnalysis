@@ -1,45 +1,0 @@
-
-7VVPS_project.src.RegressionModel.CheckValidRequest(int)L
-BC:\Програмиране\C#\VVPS_project\src\RegressionModel.cs; ;(%"0*
-0; ;(*
-1*�
-1= =(<�
-�
-=! =(0
-%0VVPS_project.src.Matrix"4VVPS_project.src.RegressionModel.AugmentedMatrix.get*0
-=! =(0$"
- VVPS_project.src.RegressionModeli
-g
-=! =(8	
-%1int"#VVPS_project.src.Matrix.Columns.get*+
-=! =(0
-
-%0VVPS_project.src.Matrixi
-g
-=! =(<	
-%2int"%!binary_implicit_operator_passthrough*
-=! =(8
-	
-%1int*
-=; =(<2*
-2
-3*�
-2> ?(>VT
-> ?(>&
-%3 System.InvalidOperationException" System.InvalidOperationException�
-�
-> ?(>&
-%4 System.InvalidOperationException"CSystem.InvalidOperationException.InvalidOperationException(string?)*4
-> ?(>(
-&
-%3 System.InvalidOperationException*I
->4 ?(==;
-9Invalid number of unknown variables in the historic data."
-@ @(	
-implicit return*.
-3@	 @(	"
-@ @(	
-implicit return: 
-;& ;(7
-variableCountintB$"
- VVPS_project.src.RegressionModelX

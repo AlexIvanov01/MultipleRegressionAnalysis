@@ -1,43 +1,0 @@
-
-+VVPS_project.src.Matrix.Matrix(double[*,*])C
-9C:\Програмиране\C#\VVPS_project\src\Matrix.cs! !("0*
-0! !(*
-1*�
-1! $(R
-P
-! ((	
-
-%0void"object.Object()*'
-! ((	
-VVPS_project.src.Matrix�
-�
-# #(
-%1double[*,*]"%VVPS_project.src.Matrix.DataArray.set*'
-# #(
-VVPS_project.src.Matrix*
-
-datadouble[*,*]*
-2
-3*
-2$ $(+*
-3
-4*�
-3& &(DFD
-& &(D
-%2System.ArgumentException"System.ArgumentException�
-�
-& &(D
-%3System.ArgumentException"3System.ArgumentException.ArgumentException(string?)*,
-& &(D 
-
-%2System.ArgumentException*%
-&, &(C
-Matrix has no values."
-( ((	
-implicit return*.
-4(	 ((	"
-( ((	
-implicit return:
-! !($
-datadouble[*,*]B
-VVPS_project.src.MatrixX

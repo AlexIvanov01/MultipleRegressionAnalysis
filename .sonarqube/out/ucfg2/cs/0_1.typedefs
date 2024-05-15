@@ -1,10 +1,0 @@
- 
- VVPS_project.src.RegressionModelobject
--RegressionModel(VVPS_project.src.Matrix, int)NVVPS_project.src.RegressionModel.RegressionModel(VVPS_project.src.Matrix, int)7
-	Execute()*VVPS_project.src.RegressionModel.Execute()?
-PrintResult().VVPS_project.src.RegressionModel.PrintResult()Q
-CheckValidRequest(int)7VVPS_project.src.RegressionModel.CheckValidRequest(int)K
-AugmentedMatrix.get4VVPS_project.src.RegressionModel.AugmentedMatrix.getK
-AugmentedMatrix.set4VVPS_project.src.RegressionModel.AugmentedMatrix.setE
-Coefficients.get1VVPS_project.src.RegressionModel.Coefficients.getE
-Coefficients.set1VVPS_project.src.RegressionModel.Coefficients.set

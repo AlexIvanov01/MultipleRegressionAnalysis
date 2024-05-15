@@ -1,4 +1,0 @@
-﻿C:\Програмиране\C#\VVPS_project\src\DataReader.cs
-C:\Програмиране\C#\VVPS_project\src\Matrix.cs
-C:\Програмиране\C#\VVPS_project\src\Program.cs
-C:\Програмиране\C#\VVPS_project\src\RegressionModel.cs

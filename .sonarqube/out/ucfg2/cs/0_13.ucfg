@@ -1,50 +1,0 @@
-
-NVVPS_project.src.RegressionModel.RegressionModel(VVPS_project.src.Matrix, int)L
-BC:\Програмиране\C#\VVPS_project\src\RegressionModel.cs ("0*
-0 (*
-1*�
-1 (-[
-Y
- (	
-
-%0void"object.Object()*0
- (	$"
- VVPS_project.src.RegressionModel�
-�
- (*Q"
- VVPS_project.src.RegressionModel"+
-_augmentedMatrixVVPS_project.src.Matrix"__id**(
-&
-inputMatrixVVPS_project.src.Matrixo
-m
-' (7	
-%1int" VVPS_project.src.Matrix.Rows.get*4
-' (2(
-&
-inputMatrixVVPS_project.src.Matrix&$
- (8
-%2double[]"double[]g
-e
- (8?"
- VVPS_project.src.RegressionModel"
-_coefficientsdouble[]"__id*
-
-%2double[]�
-�
- (,
-
-%3void"7VVPS_project.src.RegressionModel.CheckValidRequest(int)*0
- ($"
- VVPS_project.src.RegressionModel*"
- (+
-
-variableCountint*
-2*.
-2	 (	"
- (	
-implicit return:2
- (1&
-inputMatrixVVPS_project.src.Matrix: 
-3 (D
-variableCountintB$"
- VVPS_project.src.RegressionModelX
